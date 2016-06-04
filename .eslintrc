@@ -1,5 +1,5 @@
 {
-  "extends": "airbnb-base",
+  "extends": "airbnb",
   "env": {
     "node": true,
     "mocha": true
@@ -17,5 +17,6 @@
     "no-shadow": [2, { "allow": ["err", "n"] }],
     "no-underscore-dangle": 0,
     "prefer-rest-params": 0,
+    "strict": 0
   }
 }

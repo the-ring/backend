@@ -3,8 +3,8 @@
   "author": "Alexey Bystrov <strikeentco@gmail.com>",
   "version": "0.1.0",
   "description": "",
-  "engines" : {
-    "node" : ">=4"
+  "engines": {
+    "node": ">=4"
   },
   "main": "index.js",
   "scripts": {
@@ -27,8 +27,10 @@
   },
   "devDependencies": {
     "eslint": "^2.11.1",
-    "eslint-config-airbnb-base": "^3.0.1",
-    "eslint-plugin-import": "^1.8.1"
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.8.1",
+    "eslint-plugin-jsx-a11y": "^1.2.3",
+    "eslint-plugin-react": "^5.1.1"
   },
   "private": true
 }
