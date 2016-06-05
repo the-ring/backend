@@ -1,6 +1,6 @@
 backend  [![License](https://img.shields.io/github/license/the-ring/backend.svg)](https://github.com/the-ring/backend/blob/master/LICENSE)
 ==========
-![node](https://img.shields.io/badge/node-%3E%3D4.x.x-brightgreen.svg)
+[![Build Status](https://travis-ci.org/the-ring/backend.svg)](https://travis-ci.org/the-ring/backend) ![node](https://img.shields.io/badge/node-%3E%3D4.x.x-brightgreen.svg) [![Test Coverage](https://codeclimate.com/github/the-ring/backend/badges/coverage.svg)](https://codeclimate.com/github/the-ring/backend/coverage) [![bitHound Score](https://www.bithound.io/github/the-ring/backend/badges/score.svg)](https://www.bithound.io/github/the-ring/backend)
 
 REST API server which will serve all requests from [The Ring frontend client]() and [The Ring desktop app]().
 
