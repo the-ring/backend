@@ -1,15 +1,26 @@
-backend  [![License](https://img.shields.io/github/license/the-ring/backend.svg)](https://github.com/the-ring/backend/blob/master/LICENSE)
-==========
-[![Build Status](https://travis-ci.org/the-ring/backend.svg)](https://travis-ci.org/the-ring/backend) ![node](https://img.shields.io/badge/node-%3E%3D4.x.x-brightgreen.svg) [![Test Coverage](https://codeclimate.com/github/the-ring/backend/badges/coverage.svg)](https://codeclimate.com/github/the-ring/backend/coverage) [![bitHound Score](https://www.bithound.io/github/the-ring/backend/badges/score.svg)](https://www.bithound.io/github/the-ring/backend)
+<h1 align="center">
+  <br>
+  <img src="https://avatars1.githubusercontent.com/u/19213164?v=3&s=200" alt="The Ring" width="200">
+  <br>
+  The Ring - backend
+  <br>
+  <br>
+</h1>
 
-REST API server which will serve all requests from [The Ring frontend client]() and [The Ring desktop app]().
+<h4 align="center">REST API server which will serve all requests from <a href="https://github.com/the-ring/frontend">frontend client</a> and <a href="https://github.com/the-ring/desktop">desktop app</a>.</h4>
+
+<p align="center">
+  <a href="https://travis-ci.org/the-ring/backend"><img src="https://travis-ci.org/the-ring/backend.svg" alt="Travis"></a>
+  <a href="#"><img src="https://img.shields.io/badge/node-%3E%3D4.x.x-brightgreen.svg" alt="Node version"></a>
+  <a href="https://github.com/the-ring/backend/releases"><img src="https://img.shields.io/github/tag/the-ring/backend.svg" alt="Release"></a>
+  <a href="https://codeclimate.com/github/the-ring/backend/coverage"><img src="https://codeclimate.com/github/the-ring/backend/badges/coverage.svg" alt="Coverage"></a>
+  <a href="ttps://www.bithound.io/github/the-ring/backend"><img src="https://www.bithound.io/github/the-ring/backend/badges/score.svg" alt="bitHound Score"></a>
+</p>
+
+**Attention! This project is in active development.**
+***Please don't use it in production until the 1.0.0 release.***
 
 ## Install
-```sh
-$ mkdir backend && cd backend
-$ npm i the-ring/backend
-```
-or
 ```sh
 $ git clone https://github.com/the-ring/backend.git
 $ cd backend
